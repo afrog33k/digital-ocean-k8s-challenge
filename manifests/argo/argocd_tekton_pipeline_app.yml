@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/nandajavarma/digital-ocean-k8s-challenge
+    repoURL: https://github.com/afrog33k/digital-ocean-k8s-challenge
     targetRevision: HEAD
     path: manifests/tekton-pipeline/
 
